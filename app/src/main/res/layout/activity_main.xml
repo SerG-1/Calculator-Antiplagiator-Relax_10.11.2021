@@ -148,10 +148,10 @@
             app:layout_constraintBottom_toTopOf="@+id/divide"
             app:layout_constraintEnd_toStartOf="@+id/plus"
             app:layout_constraintStart_toEndOf="@+id/minus"
-            app:layout_constraintTop_toBottomOf="@+id/multiply" />
+            app:layout_constraintTop_toBottomOf="@+id/mult" />
 
         <Button
-            android:id="@+id/multiply"
+            android:id="@+id/mult"
             android:layout_width="130dp"
             android:layout_height="60dp"
             android:layout_marginStart="21dp"
